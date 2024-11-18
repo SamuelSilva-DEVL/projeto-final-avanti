@@ -90,13 +90,21 @@ body{
 }
 
 .list-social-midea{
+    width: 100%;
+        margin: 0 auto;
     list-style: none;
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 16px;
     margin-top: 30px;
 }
 
 .list-social-midea li a img{
     border-radius: 8px;
+}
+.form-contact {
+    max-width: 60%;
+    margin: 0 auto;
+    border-radius: 6px;
 }
