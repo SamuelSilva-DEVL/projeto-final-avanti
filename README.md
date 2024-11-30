@@ -1,25 +1,28 @@
-# Potifólio - Formação FullStack Avanti
+# Sobre o projeto
 
-## Descrição
+Portifolio reproduzido seguindo as orientações e o que foi estudado nas aulas do curso de Desenvolvimento Full Stack da Avanti.
 
-Este é um projeto desenvolvido para nas aulas da formação fullstack da Avanti, com a prosta de desenvolver um portifólio pessoal contanto o pouco sobre mim, mostrando meus conhecimentos, projetos, avaliações, galeria de fotos e formas de entrar em contato.
+O Portifolio fala um pouco sobre mim, meus interesses, minhas áreas de conhecimentos/habilidades, uma galeria de fotos onde é demonstrado as coisas das quais gosto, um pouco do meu aprendizado no curso e um formulário para entrar em contato.
+
+## Layout
+
+  ![Exemplo de layout](./assets/home.png)
 
 ## Tecnologias Utilizadas
 
-- **HTML5**
-- **CSS3**
-- **TAILWIND**
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-## Subindo o projeto para o github
-
-- git init
-- git add .
-- git commit -m "commit"
-- git remote add origin "url_repositorio"
-- git push -u origin "branch"
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [TAILWIND](https://tailwindui.com/)
 
 ## Como Clonar o Projeto
 
-Para clonar o repositório, execute o seguinte comando no terminal:
+1. Clone o repositório:
 
-- git clone https://github.com/usuario/nome-do-repositorio.git
+   ```bash
+   git clone https://github.com/SamuelSilva-DEVL/projeto-final-avanti.git
+   
+2. Abra na sua IDE:
+
+   Agora só abrir o index.html que vem dentro da pasta que você clonou no navegador para ter a visualização, e poder fazer a contribuição que quiser, ou usar como base para seu próprio portifólio.
